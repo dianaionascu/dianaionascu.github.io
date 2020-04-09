@@ -1,0 +1,7 @@
+@import "";
+
+.navbar-nav {
+    :nth-child(n+2){
+        display: none;
+    }
+}
